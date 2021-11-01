@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="autotests" />
         <module name="SeleniumFirstTestFB" />
+        <module name="firstSeleniumProject" />
       </profile>
     </annotationProcessing>
   </component>
